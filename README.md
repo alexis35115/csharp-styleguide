@@ -1,2 +1,5 @@
-# csharp-styleguide
-Style du code C#
+# Style du code C#
+
+Documentation à venir..
+
+Tous droits réservés 2020 © Alexis Garon-Michaud
